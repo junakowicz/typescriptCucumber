@@ -1,0 +1,26 @@
+{
+  "name": "typesctiptCucumber",
+  "version": "0.0.0",
+  "description": "simple demo showing Cucumber BDD framework testing using TypeScript",
+  "main": "index.js",
+  "dependencies": {
+    "typescript": "^1.8.9"
+  },
+  "devDependencies": {
+    "cucumber": "^0.10.2",
+    "ts-node": "^0.7.1",
+    "chai": "^3.5.0",
+    "tsd": "^0.6.5"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cucumber",
+    "bdd",
+    "testing",
+    "typeScript"
+  ],
+  "author": "Andrzej Wower",
+  "license": "ISC"
+}
