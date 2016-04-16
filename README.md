@@ -90,7 +90,7 @@ In console output you should see snippets of steps.
 
 ex.
 ```
-1) Scenario: Collect any unlicensed dog from the street - features\collect-dogs.feature:8
+1) Scenario: Collect any unlicensed dogs from the street - features\collect-dogs.feature:8
    Step: Given there are animals on the street - features\collect-dogs.feature:9
    Message:
      Undefined. Implement with the following snippet:
